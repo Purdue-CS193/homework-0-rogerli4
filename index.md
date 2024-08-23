@@ -1,3 +1,8 @@
+# Roger's First CS193 Homework
+- No exams!!
+- Chill student lecturers!!
+- We get to learn about tools that will make our life easier!
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -42,3 +47,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - Go back to bed
 
 _very cool_
+
+
+
+- We get to learn about tools to make our life easier!!
+
+
