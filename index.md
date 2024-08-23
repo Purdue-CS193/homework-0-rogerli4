@@ -47,9 +47,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 - Go back to bed
 
 _very cool_
-
-
-
-- We get to learn about tools to make our life easier!!
-
-
